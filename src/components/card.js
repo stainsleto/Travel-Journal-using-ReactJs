@@ -1,6 +1,5 @@
-import { text } from 'express'
 import React from 'react'
-import '../components/index.css'
+import '../index.css'
 
 function Card(){
     <div className="card-main">
@@ -18,4 +17,4 @@ function Card(){
 }
 
 
-export default Card
+export default Card;

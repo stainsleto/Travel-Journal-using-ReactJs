@@ -5,9 +5,9 @@ import App from './App';
 const root = document.getElementById('root');
 function Travel () {
   return(
-  <div>
+  
     <App />
-  </div>
+  
 );
   }
 
