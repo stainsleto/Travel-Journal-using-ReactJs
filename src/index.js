@@ -3,12 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 const root = document.getElementById('root');
-function Travel () {
+function Home () {
   return(
   
     <App />
   
 );
-  }
+}
 
-ReactDOM.render(<Travel /> ,root)
+ReactDOM.render(<Home /> ,root)
