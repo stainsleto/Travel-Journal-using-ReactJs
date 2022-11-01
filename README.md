@@ -10,9 +10,9 @@ Made this simple website using Reactjs by getting data from one single file and 
 
 ## `Screenshots`
 
-![alt text](https://github.com/stainsleto/Airbnb-Experience-Clone/blob/main/repository/card.png?raw=true)
+![alt text](https://github.com/stainsleto/Travel-Journal-using-ReactJs/blob/main/repository/card.png?raw=true)
 
-![alt text](https://github.com/stainsleto/Airbnb-Experience-Clone/blob/main/repository/card1.png?raw=true)
+![alt text](https://github.com/stainsleto/Travel-Journal-using-ReactJs/blob/main/repository/card1.png?raw=true)
 
 ## `Follow me`
 
